@@ -94,7 +94,7 @@ public class UserController
             responseHeaders,
             HttpStatus.CREATED);
     }
-    
+
 
     /**
      * Deletes a given user along with associated todos.
