@@ -95,6 +95,7 @@ public class UserController
             HttpStatus.CREATED);
     }
 
+
     /**
      * Deletes a given user along with associated todos.
      * <br>Example: <a href="http://localhost:2019/users/user/14">http://localhost:2019/users/user/14</a>
